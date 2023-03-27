@@ -5,7 +5,8 @@
     font-family: "Lora", serif;
 }
 body {
-    background: #131c27;
+    background: #fff;
+    /* background: #131c27; */
     color: #000;
 }
 /* estilos para el contenedor general */
